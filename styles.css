@@ -1,0 +1,79 @@
+.enter{
+    display:none;
+}
+.leave{
+    display:none;
+}
+body {
+    color: purple;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: lightblue;
+}
+.second{
+    text-align: center;
+}
+img{
+    display:none;
+}
+.door{
+    display:inline;
+}
+.title {
+    font-size: 50px;
+    background-color: violet;
+    font-weight: 800;
+    padding: 0 20px;
+    font-family: 'Satisfy', cursive;
+}
+.chewyave{
+    margin-left: auto;
+    margin-right: auto;
+}
+.py{
+    width: 75%;
+    height:75%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.awake{
+    width: 75%;
+    height:75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hover{
+    width: 55%;
+    height:55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dr{
+    display:none;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+.butt{
+    display:none;
+}
+.enter{
+    text-align: right;
+    color: red;
+}
+.leave{
+    text-align: left;
+    color: red;
+}
+.mc{
+    width: 75%;
+    height:75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.back{
+    display:none;
+}
